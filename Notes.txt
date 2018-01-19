@@ -1,0 +1,10 @@
+http://espressif.com/en/support/download/documents?keys=reference+design
+http://espressif.com/en/support/download/overview?keys=&field_type_tid%5B%5D=13
+https://www.youtube.com/watch?v=0n6k6GYu_V0
+http://espressif.com/sites/default/files/documentation/esp32_hardware_design_guidelines_en.pdf
+http://espressif.com/sites/default/files/documentation/esp-wroom-32_datasheet_en.pdf
+https://docs.google.com/spreadsheets/d/193m6B4Jjvnffp8MPV1TExg5RMnV4DfvUie1eED_nAe4/edit#gid=0
+https://github.com/MUEEC/SuperBot
+https://trello.com/b/aEsyQRKa/superbot
+dip switch for motors
+latching push button for power? (batt-bms or bms-sys)
