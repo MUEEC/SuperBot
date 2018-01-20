@@ -229,9 +229,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1071.962"
-     inkscape:cy="1124.8261"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="648.41622"
+     inkscape:cy="610.77728"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -880,32 +880,32 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">ESP-32-WROOM</tspan><tspan
          sodipodi:role="line"
          x="138.90625"
-         y="131.30583"
+         y="131.30585"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
          id="tspan10830">Vin_MAX = 3.5V</tspan><tspan
          sodipodi:role="line"
          x="138.90625"
-         y="137.59082"
+         y="137.59084"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
          id="tspan10832">Vin_MIN = 2.7V</tspan><tspan
          sodipodi:role="line"
          x="138.90625"
-         y="143.87582"
+         y="143.87584"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
          id="tspan10834">Iavg = 80mA</tspan><tspan
          sodipodi:role="line"
          x="138.90625"
-         y="150.16081"
+         y="150.16083"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan10836">Imax = 500mA</tspan><tspan
+         id="tspan1048">I_MIN_SUP = 500mA</tspan><tspan
          sodipodi:role="line"
          x="138.90625"
-         y="156.44582"
+         y="156.44583"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
          id="tspan3941-35-4-9" /><tspan
          sodipodi:role="line"
          x="138.90625"
-         y="162.61942"
+         y="162.61943"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
          id="tspan4518-6-91-5-9" /></text>
     <path
