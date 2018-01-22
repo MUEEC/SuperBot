@@ -19,6 +19,131 @@
   <defs
      id="defs2">
     <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11156"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11154"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11030"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11028" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10940"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path10938"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10856"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10854" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10631"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path10629"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10338"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10336" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10272"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10270" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10236"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10234" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
        refY="0"
@@ -56,7 +181,8 @@
        refX="0"
        id="Arrow1Lend"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path4701"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
@@ -80,6 +206,21 @@
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4701-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -88,16 +229,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1012.8831"
-     inkscape:cy="1012.0944"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="648.41622"
+     inkscape:cy="610.77728"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-text-baseline="true"
      showguides="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -115,7 +256,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -146,19 +287,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Motor 1</tspan><tspan
          sodipodi:role="line"
          x="361.46423"
-         y="-85.580391"
+         y="-85.493759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514">I_MAX = 1111 ma</tspan><tspan
+         id="tspan4514">I_MAX = 700ma *</tspan><tspan
          sodipodi:role="line"
          x="361.46423"
-         y="-79.382027"
+         y="-79.208763"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516">V_MAX = 1.000 v</tspan><tspan
+         id="tspan4516">V_MAX = 6.000 v</tspan><tspan
          sodipodi:role="line"
          x="361.46423"
-         y="-73.183662"
+         y="-72.923767"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518">P_MAX = 1.111 W</tspan></text>
+         id="tspan4518">P_MAX = 4.200 W</tspan></text>
     <rect
        style="fill:#ff8080;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4508-4"
@@ -181,19 +322,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Motor 2</tspan><tspan
          sodipodi:role="line"
          x="434.2247"
-         y="-85.580391"
+         y="-85.493759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514-6">I_MAX = 1111 ma</tspan><tspan
+         id="tspan4518-9">I_MAX = 700ma *</tspan><tspan
          sodipodi:role="line"
          x="434.2247"
-         y="-79.382027"
+         y="-79.208763"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516-8">V_MAX = 1.000 v</tspan><tspan
+         id="tspan3928">V_MAX = 6.000 v</tspan><tspan
          sodipodi:role="line"
          x="434.2247"
-         y="-73.183662"
+         y="-72.923767"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518-9">P_MAX = 1.111 W</tspan></text>
+         id="tspan3930">P_MAX = 4.200 W</tspan></text>
     <rect
        style="fill:#ff8080;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4508-6"
@@ -216,19 +357,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Motor 3</tspan><tspan
          sodipodi:role="line"
          x="506.98511"
-         y="-85.580391"
+         y="-85.493759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514-60">I_MAX = 1111 ma</tspan><tspan
+         id="tspan4518-3">I_MAX = 700ma *</tspan><tspan
          sodipodi:role="line"
          x="506.98511"
-         y="-79.382027"
+         y="-79.208763"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516-3">V_MAX = 1.000 v</tspan><tspan
+         id="tspan3937">V_MAX = 6.000 v</tspan><tspan
          sodipodi:role="line"
          x="506.98511"
-         y="-73.183662"
+         y="-72.923767"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518-3">P_MAX = 1.111 W</tspan></text>
+         id="tspan3939">P_MAX = 4.200 W</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4598"
@@ -240,111 +381,51 @@
            height="148.50313"
            x="100"
            y="722.51965" /></flowRegion><flowPara
-         id="flowPara4604"></flowPara></flowRoot>    <rect
-       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none"
+         id="flowPara4604" /></flowRoot>    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.44918287;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4508-3"
-       width="66.145836"
-       height="33.072903"
+       width="66.145844"
+       height="39.6875"
        x="350.57291"
-       y="-40.34375"
-       ry="6.6145835"
-       rx="6.6145835" />
+       y="-40.343754"
+       ry="7.9375033"
+       rx="6.614584" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="361.46423"
-       y="-32.247536"
+       x="363.80209"
+       y="-33.729168"
        id="text4512-8"><tspan
          sodipodi:role="line"
          id="tspan4510-01"
-         x="361.46423"
-         y="-32.247536"
+         x="363.80209"
+         y="-33.729168"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Motor Driver 1</tspan><tspan
          sodipodi:role="line"
-         x="361.46423"
-         y="-26.049173"
+         x="363.80209"
+         y="-27.444172"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514-1">I_MAX = 1111 ma</tspan><tspan
+         id="tspan4514-1">I_AVG_MAX = 1A</tspan><tspan
          sodipodi:role="line"
-         x="361.46423"
-         y="-19.850809"
+         x="363.80209"
+         y="-21.159176"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516-7">V_MAX = 1.000 v</tspan><tspan
+         id="tspan4516-7">I_PEAK_MAX = 2A</tspan><tspan
          sodipodi:role="line"
-         x="361.46423"
-         y="-13.652444"
+         x="363.80209"
+         y="-14.87418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518-6">P_MAX = 1.111 W</tspan></text>
-    <rect
-       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4508-4-1"
-       width="66.145836"
-       height="33.072903"
-       x="423.33334"
-       y="-40.34375"
-       ry="6.6145835"
-       rx="6.6145835" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="434.2247"
-       y="-32.247536"
-       id="text4512-3-5"><tspan
+         id="tspan3941">V_MAX = 36.00 v</tspan><tspan
          sodipodi:role="line"
-         id="tspan4510-0-8"
-         x="434.2247"
-         y="-32.247536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Motor Driver 2</tspan><tspan
-         sodipodi:role="line"
-         x="434.2247"
-         y="-26.049173"
+         x="363.80209"
+         y="-8.5891829"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514-6-2">I_MAX = 1111 ma</tspan><tspan
+         id="tspan4070">V_MIN = 4.5V</tspan><tspan
          sodipodi:role="line"
-         x="434.2247"
-         y="-19.850809"
+         x="363.80209"
+         y="-2.3041871"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516-8-7">V_MAX = 1.000 v</tspan><tspan
-         sodipodi:role="line"
-         x="434.2247"
-         y="-13.652444"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518-9-2">P_MAX = 1.111 W</tspan></text>
-    <rect
-       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4508-6-1"
-       width="66.145836"
-       height="33.072903"
-       x="496.09375"
-       y="-40.34375"
-       ry="6.6145835"
-       rx="6.6145835" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="506.98508"
-       y="-32.247536"
-       id="text4512-5-9"><tspan
-         sodipodi:role="line"
-         id="tspan4510-3-9"
-         x="506.98508"
-         y="-32.247536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Motor Driver 3</tspan><tspan
-         sodipodi:role="line"
-         x="506.98508"
-         y="-26.049173"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514-60-2">I_MAX = 1111 ma</tspan><tspan
-         sodipodi:role="line"
-         x="506.98508"
-         y="-19.850809"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516-3-0">V_MAX = 1.000 v</tspan><tspan
-         sodipodi:role="line"
-         x="506.98508"
-         y="-13.652444"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518-3-1">P_MAX = 1.111 W</tspan></text>
+         id="tspan4518-6">P_MAX = 5W</tspan></text>
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-6.1752384e-6,39.687495)"
        xml:space="preserve"
@@ -382,69 +463,6 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="463.02084"
-       y="-60.187508"
-       id="text4512-3-6"><tspan
-         sodipodi:role="line"
-         x="463.02084"
-         y="-60.187508"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514-6-0">I_MAX = 1111 ma</tspan><tspan
-         sodipodi:role="line"
-         x="463.02084"
-         y="-53.989143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516-8-9">V_MAX = 1.000 v</tspan><tspan
-         sodipodi:role="line"
-         x="463.02084"
-         y="-47.790779"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518-9-8">P_MAX = 1.111 W</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="390.26041"
-       y="-60.187508"
-       id="text4512-3-6-7"><tspan
-         sodipodi:role="line"
-         x="390.26041"
-         y="-60.187508"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514-6-0-8">I_MAX = 1111 ma</tspan><tspan
-         sodipodi:role="line"
-         x="390.26041"
-         y="-53.989143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516-8-9-9">V_MAX = 1.000 v</tspan><tspan
-         sodipodi:role="line"
-         x="390.26041"
-         y="-47.790779"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518-9-8-0">P_MAX = 1.111 W</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="535.78125"
-       y="-60.187508"
-       id="text4512-3-6-0"><tspan
-         sodipodi:role="line"
-         x="535.78125"
-         y="-60.187508"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4514-6-0-7">I_MAX = 1111 ma</tspan><tspan
-         sodipodi:role="line"
-         x="535.78125"
-         y="-53.989143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4516-8-9-3">V_MAX = 1.000 v</tspan><tspan
-         sodipodi:role="line"
-         x="535.78125"
-         y="-47.790779"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan4518-9-8-8">P_MAX = 1.111 W</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="33.072918"
        y="-86.645828"
@@ -459,5 +477,504 @@
          y="-69.006935"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
          id="tspan5389" /></text>
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.44918287;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-8"
+       width="66.145844"
+       height="39.6875"
+       x="423.33334"
+       y="-40.34375"
+       ry="7.9375029"
+       rx="6.614584" />
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.44918287;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-8-8"
+       width="66.145844"
+       height="39.6875"
+       x="496.09378"
+       y="-40.34375"
+       ry="7.9375024"
+       rx="6.614584" />
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.32291687;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-0"
+       width="66.145836"
+       height="33.072918"
+       x="33.07291"
+       y="-7.2708354"
+       ry="6.6145859"
+       rx="6.6145835" />
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.56529665;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-1"
+       width="66.145859"
+       height="46.302082"
+       x="132.29164"
+       y="-13.885419"
+       ry="9.2604208"
+       rx="6.6145859" />
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.56529653;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-06"
+       width="66.145844"
+       height="46.302082"
+       x="231.51042"
+       y="-13.885417"
+       ry="9.2604198"
+       rx="6.6145854" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="138.90625"
+       y="-7.2708354"
+       id="text4512-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan4510-01-8"
+         x="138.90625"
+         y="-7.2708354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">BMS</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="-0.98583925"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4514-1-7">Vin_MAX = 6.4V</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="5.2991571"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4516-7-9">Vin_MIN = 4.35V</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="11.584153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan11296">V_CHG = 4.1V</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="17.86915"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan11302">I_CHG_MAX = 1.5A</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="24.154146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan11298">Vout_MAX = 4.2V</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="30.439142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan11300">Vout_MIN = 3V</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="36.724136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan3941-35" /><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="42.897747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-91" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="436.5625"
+       y="-33.729168"
+       id="text4512-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan4510-01-1"
+         x="436.5625"
+         y="-33.729168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Motor Driver 2</tspan><tspan
+         sodipodi:role="line"
+         x="436.5625"
+         y="-27.444172"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4514-1-8">I_AVG_MAX = 1A</tspan><tspan
+         sodipodi:role="line"
+         x="436.5625"
+         y="-21.159176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4516-7-94">I_PEAK_MAX = 2A</tspan><tspan
+         sodipodi:role="line"
+         x="436.5625"
+         y="-14.87418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan3941-6">V_MAX = 36.00 v</tspan><tspan
+         sodipodi:role="line"
+         x="436.5625"
+         y="-8.5891829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4070-2">V_MIN = 4.5V</tspan><tspan
+         sodipodi:role="line"
+         x="436.5625"
+         y="-2.3041871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-7">P_MAX = 5W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="509.32294"
+       y="-33.729168"
+       id="text4512-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan4510-01-7"
+         x="509.32294"
+         y="-33.729168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Motor Driver 3</tspan><tspan
+         sodipodi:role="line"
+         x="509.32294"
+         y="-27.444172"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4514-1-5">I_AVG_MAX = 1A</tspan><tspan
+         sodipodi:role="line"
+         x="509.32294"
+         y="-21.159176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4516-7-5">I_PEAK_MAX = 2A</tspan><tspan
+         sodipodi:role="line"
+         x="509.32294"
+         y="-14.87418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan3941-3">V_MAX = 36.00 v</tspan><tspan
+         sodipodi:role="line"
+         x="509.32294"
+         y="-8.5891829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4070-6">V_MIN = 4.5V</tspan><tspan
+         sodipodi:role="line"
+         x="509.32294"
+         y="-2.3041871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-1">P_MAX = 5W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="39.687496"
+       y="-0.65625334"
+       id="text4512-8-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan4510-01-8-8"
+         x="39.687496"
+         y="-0.65625334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Battery</tspan><tspan
+         sodipodi:role="line"
+         x="39.687496"
+         y="5.6287427"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4514-1-7-9">V_MAX = 4.2A</tspan><tspan
+         sodipodi:role="line"
+         x="39.687496"
+         y="11.913739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4516-7-9-2">V_MIN = 3A</tspan><tspan
+         sodipodi:role="line"
+         x="39.687496"
+         y="18.198734"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan3941-35-5">I_MAX = 20A</tspan><tspan
+         sodipodi:role="line"
+         x="39.687496"
+         y="24.483732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-91-7">Capacity = 1000mAh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="244.73958"
+       y="-53.572926"
+       id="text4155"><tspan
+         sodipodi:role="line"
+         id="tspan4153"
+         x="244.73958"
+         y="-43.917431"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="238.125"
+       y="-7.2708349"
+       id="text4512-8-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan4510-01-8-6"
+         x="238.125"
+         y="-7.2708349"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Boost Converter</tspan><tspan
+         sodipodi:role="line"
+         x="238.125"
+         y="-0.98583877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4514-1-7-6">Vin_MAX = 16V</tspan><tspan
+         sodipodi:role="line"
+         x="238.125"
+         y="5.2991576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4516-7-9-24">Vin_MIN = 2V</tspan><tspan
+         sodipodi:role="line"
+         x="238.125"
+         y="11.584153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4173">Vout_MAX = 9</tspan><tspan
+         sodipodi:role="line"
+         x="238.125"
+         y="17.86915"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4175">Vout_MIN = 2.5</tspan><tspan
+         sodipodi:role="line"
+         x="238.125"
+         y="24.154146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan3941-35-6">I_MAX = 3.5A</tspan><tspan
+         sodipodi:role="line"
+         x="238.125"
+         y="30.439142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-91-9" /></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 99.218744,5.9583295 H 132.29165"
+       id="path9781"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-9)"
+       d="m 198.4375,5.9583315 h 33.07291"
+       id="path9781-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 297.65625,12.572915 h 33.07291 v 19.843748 h 198.4375"
+       id="path10224"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10236);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 383.64583,32.416663 V -0.65625281"
+       id="path10226"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10272);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 456.40624,32.416663 V -0.65625281"
+       id="path10262"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10338);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 529.16666,32.416663 V -0.65625281"
+       id="path10328"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.32291687;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-1-5"
+       width="66.145844"
+       height="33.072918"
+       x="132.29167"
+       y="-66.802086"
+       ry="6.6145864"
+       rx="6.614584" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="138.90625"
+       y="-60.187504"
+       id="text4512-8-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan4510-01-8-0"
+         x="138.90625"
+         y="-60.187504"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">USB - MICRO</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="-53.902508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4514-1-7-97">V = 5V</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="-47.617512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan3941-35-0">I_MAX = 900-3000mA</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="-41.332516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-91-4" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4582718;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10631)"
+       d="m 165.36458,-33.729169 v 19.84375"
+       id="path10621"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.32291687;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-1-1"
+       width="66.145844"
+       height="33.072918"
+       x="92.604164"
+       y="52.260414"
+       ry="6.6145864"
+       rx="6.614584" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.21875"
+       y="58.875"
+       id="text4512-8-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan4510-01-8-2"
+         x="99.21875"
+         y="58.875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">Linear Regulator??</tspan><tspan
+         sodipodi:role="line"
+         x="99.21875"
+         y="65.159996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan11136" /><tspan
+         sodipodi:role="line"
+         x="99.21875"
+         y="71.333611"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan3941-35-4" /><tspan
+         sodipodi:role="line"
+         x="99.21875"
+         y="77.507217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-91-5" /></text>
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.32291675;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-1-1-0"
+       width="66.145844"
+       height="33.072918"
+       x="171.97916"
+       y="52.260414"
+       ry="6.6145864"
+       rx="6.614584" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="178.59375"
+       y="58.875"
+       id="text4512-8-7-1-5"><tspan
+         sodipodi:role="line"
+         x="178.59375"
+         y="58.875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-91-5-8">Buck Converter??</tspan><tspan
+         sodipodi:role="line"
+         x="178.59375"
+         y="65.159996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan11134" /></text>
+    <rect
+       style="fill:#80fff3;fill-opacity:1;stroke:none;stroke-width:1.32291675;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4508-3-1-1-1"
+       width="66.145844"
+       height="33.072918"
+       x="132.29166"
+       y="118.40624"
+       ry="6.6145864"
+       rx="6.614584" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="138.90625"
+       y="125.02084"
+       id="text4512-8-7-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan4510-01-8-2-0"
+         x="138.90625"
+         y="125.02084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332">ESP-32-WROOM</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="131.30585"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan10830">Vin_MAX = 3.5V</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="137.59084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan10832">Vin_MIN = 2.7V</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="143.87584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan10834">Iavg = 80mA</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="150.16083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan1048">I_MIN_SUP = 500mA</tspan><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="156.44583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan3941-35-4-9" /><tspan
+         sodipodi:role="line"
+         x="138.90625"
+         y="162.61943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+         id="tspan4518-6-91-5-9" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.37417731;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 165.36458,32.416665 v 6.614582 h -46.30208 85.98958"
+       id="path10844"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker10856)"
+       d="M 119.0625,39.031247 V 52.260413"
+       id="path10846"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker10940)"
+       d="M 205.05208,39.031247 V 52.260413"
+       id="path10930"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker11030);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 119.0625,85.333329 v 13.229167 h 85.98958 V 85.333329 98.562496 h -39.6875 v 19.843754"
+       id="path11020"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="343.95834"
+       y="25.802082"
+       id="text11140"><tspan
+         sodipodi:role="line"
+         id="tspan11138"
+         x="343.95834"
+         y="25.802082"
+         style="font-size:6.3499999px;stroke-width:0.26458332">6V Rail</tspan><tspan
+         sodipodi:role="line"
+         x="343.95834"
+         y="39.03125"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan11308" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="152.13542"
+       y="91.947914"
+       id="text11144"><tspan
+         sodipodi:role="line"
+         id="tspan11142"
+         x="152.13542"
+         y="91.947914"
+         style="font-size:6.3499999px;stroke-width:0.26458332">3.3V Rail</tspan><tspan
+         sodipodi:role="line"
+         x="152.13542"
+         y="105.17708"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan11310" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker11156)"
+       d="M 132.29166,12.572914 H 99.218749"
+       id="path11146"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="363.80209"
+       y="-106.48959"
+       id="text11306"><tspan
+         sodipodi:role="line"
+         id="tspan11304"
+         x="363.80209"
+         y="-106.48959"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Motor I_MAX is upper limit estimate</tspan></text>
   </g>
 </svg>
