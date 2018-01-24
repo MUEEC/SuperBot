@@ -8,3 +8,7 @@ https://github.com/MUEEC/SuperBot
 https://trello.com/b/aEsyQRKa/superbot
 dip switch for motors
 latching push button for power? (batt-bms or bms-sys)
+
+http://www.ti.com/lit/ds/symlink/lm3478.pdf
+http://www.ti.com/lit/ds/symlink/tps63070.pdf
+https://www.digikey.com.au/product-detail/en/texas-instruments/TPS63070RNMR/296-44874-1-ND/6217416
