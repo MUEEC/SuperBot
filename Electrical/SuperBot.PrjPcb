@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CANEJQDO
 
 [Document8]
-DocumentPath=Superbot_hbridge_mk2.SchDoc
+DocumentPath=Superbot_motor_boost_mk2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,9 +171,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XHABAUGF
+DocumentUniqueId=AUPUVBDQ
 
 [Document9]
+DocumentPath=Superbot_hbridge_mk3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ECMNFGQT
+
+[Document10]
 DocumentPath=Superbot_motor_boost.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,8 +207,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFXBXESB
 
-[Document10]
-DocumentPath=Superbot_motor_boost_mk2.SchDoc
+[Document11]
+DocumentPath=Superbot_hbridge_mk2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,7 +222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AUPUVBDQ
+DocumentUniqueId=XHABAUGF
 
 [Configuration1]
 Name=Sources
