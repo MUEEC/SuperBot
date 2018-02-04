@@ -18,9 +18,9 @@ https://dl.espressif.com/dl/schematics/ESP32-Core-Board-V2_sch.pdf
 
 
 Parts List:
-
+~~ = done
 Controller ~~
-Battery
+Battery ~~
 Motor ~~
 IR range finder
 H bridge ~~
@@ -28,15 +28,15 @@ Ultrasonic range finder
 LSM9DS1 ~~
 MPU-9250
 IR reflective sensor
-SMD LED (0603)
+SMD LED (0603) ~~
 SMD RBG LED (0603?)
-Shift registers (SI,PO)
+Shift registers (SI,PO) ~
 USB micro B
-Battery management
+Battery management ~~
 Headers 1x8? 100mil (=0.1in?) pitch
-Boost/Buck Converter for motors
+Boost/Buck Converter for motors ~~
  - https://www.digikey.com.au/product-detail/en/texas-instruments/TPS61089RNRR/296-47295-1-ND/7688305
  - if current one does not satisfy
  - http://www.ti.com/lit/ds/symlink/tps61089.pdf
-Buck for controller
-LDO for controller
+Buck for controller ~~
+LDO for controller ~~
