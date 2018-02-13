@@ -31,12 +31,15 @@ IR reflective sensor
 SMD LED (0603) ~~
 SMD RBG LED (0603?)
 Shift registers (SI,PO) ~
-USB micro B
+USB micro B ~~
 Battery management ~~
 Headers 1x8? 100mil (=0.1in?) pitch
 Boost/Buck Converter for motors ~~
- - https://www.digikey.com.au/product-detail/en/texas-instruments/TPS61089RNRR/296-47295-1-ND/7688305
- - if current one does not satisfy
- - http://www.ti.com/lit/ds/symlink/tps61089.pdf
 Buck for controller ~~
 LDO for controller ~~
+
+
+
+NB:
+Run MIC5378YC5 pcb part by Tom
+	- Had trouble with the component generator 2d part

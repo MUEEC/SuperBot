@@ -157,6 +157,23 @@ GenerateClassCluster=0
 DocumentUniqueId=AUPUVBDQ
 
 [Document8]
+DocumentPath=Superbot_USB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AWPOQACJ
+
+[Document9]
 DocumentPath=Superbot_hbridge_mk3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,8 +190,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECMNFGQT
 
-[Document9]
-DocumentPath=Superbot_USB.SchDoc
+[Document10]
+DocumentPath=SuperBot_Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -188,7 +205,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AWPOQACJ
+DocumentUniqueId=OXFCUJMR
+
+[Document11]
+DocumentPath=Superbot_LEDS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CHYKIHXE
 
 [Configuration1]
 Name=Sources
