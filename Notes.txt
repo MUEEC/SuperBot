@@ -13,6 +13,9 @@ http://www.ti.com/lit/ds/symlink/lm3478.pdf
 http://www.ti.com/lit/ds/symlink/tps63070.pdf
 https://www.digikey.com.au/product-detail/en/texas-instruments/TPS63070RNMR/296-44874-1-ND/6217416
 
+https://learn.sparkfun.com/tutorials/logic-levels
+https://learn.sparkfun.com/tutorials/voltage-dividers
+
 SCHEMATIC OF ALREADY DESIGNED ESP 32 WROOM DEV BOARD
 https://dl.espressif.com/dl/schematics/ESP32-Core-Board-V2_sch.pdf
 
@@ -43,3 +46,8 @@ LDO for controller ~~
 NB:
 Run MIC5378YC5 pcb part by Tom
 	- Had trouble with the component generator 2d part
+Programming via arduino interface?
+how to pull IO0 low for programming with USB-UART conv.
+LEDS - single resistor possible?
+JST and wire connectors for battery and range finders
+Range finder placement and housing
