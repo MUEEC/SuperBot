@@ -45,9 +45,18 @@ LDO for controller ~~
 
 NB:
 Run MIC5378YC5 pcb part by Tom
-	- Had trouble with the component generator 2d part
+	- Had trouble with the component generator 2d part so I custom did it
 Programming via arduino interface?
+	- Seems to be possible? Allows use of arduino IDE and language which is good for beginners
 how to pull IO0 low for programming with USB-UART conv.
+	- IO0 needs to be pulled low for programming mode
+	- There seems to be a circuit for this in the example schematic but I'm not sure I understand it
+	- Example schematic: https://dl.espressif.com/dl/schematics/ESP32-Core-Board-V2_sch.pdf
+		- Look in bottom left corner
 LEDS - single resistor possible?
+	- Don't think so sadly
 JST and wire connectors for battery and range finders
+	- Max 5-6 amps from the battery so need wire for that (AWG 21 or lower I think)
 Range finder placement and housing
+	- Need angle brackets so they can face forward not up.
+	- For all 3 sensors I think.
