@@ -1,0 +1,136 @@
+Removed Parameter Availability:Good from Part U?
+Removed Parameter Availability:Good from Part D?
+Removed Parameter Availability:Unavailable from Part P?
+Removed Parameter Built_By:EMA_UL_Team from Part U?
+Removed Parameter Built_By:EMA_UL_Team from Part U?
+Removed Parameter C:Copyright (C) 2015 Accelerated Designs. All rights reserved from Part U?
+Removed Parameter Class II:Diode - Switching from Part D?
+Removed Parameter Class II:Diode - Switching from Part D?
+Removed Parameter Digi-Key_Part_Number:296-44874-1-ND from Part U?
+Removed Parameter Digi-Key_Purchase_URL:https://www.digikey.com.au/product-detail/en/texas-instruments/TPS63070RNMR/296-44874-1-ND/6217416?WT.z_cid=ref_snapeda&utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow from Part U?
+Removed Parameter Manufacturer:Generic Components from Part D?
+Removed Parameter Manufacturer:Generic Components from Part D?
+Removed Parameter Manufacturer_Part_Number:AP2114H-3.3TRG1 from Part U?
+Removed Parameter Manufacturer_Part_Number:DRV8839DSSR from Part U?
+Removed Parameter Mount: from Part R?
+Removed Parameter Price:0.46 USD from Part D?
+Removed Parameter Price:1.81 USD from Part U?
+Removed Parameter Price:None from Part P?
+Removed Parameter Published:8-Jun-2000 from Part D?
+Removed Parameter Published:8-Jun-2000 from Part D?
+Removed Parameter Publisher:Altium Limited from Part D?
+Removed Parameter Publisher:Altium Limited from Part D?
+Removed Parameter RefDes:RefDes from Part U?
+Removed Parameter RefDes:RefDes from Part U?
+Removed Parameter Type:Type from Part U?
+Removed Parameter Type:Type from Part U?
+Removed Parameter Vendor:Diodes Inc from Part U?
+Removed Parameter Vendor:Texas Instruments from Part U?
+Change Value of Parameter Supplier 1 in Part C? Old= New=Digikey
+Change Value of Parameter Package in Part U? Old=QFN-24 Silicon Labs New=QFN-24
+Change Value of Parameter Supplier 1 in Part L? Old= New=Digikey
+Change Value of Parameter Supplier 1 in Part R? Old= New=Digikey
+Change Value of Parameter Package in Part D? Old=SOT-143 Littelfuse New=SOT-143
+Change Value of Parameter Package in Part U? Old=VQFN-15 Texas Instruments New=VQFN-15
+Change Value of Parameter Package in Part P? Old=None New=???
+Change Value of Parameter Manufacturer in Part U? Old=MF New=Manufacturer
+Change Value of Parameter Manufacturer Part Num in Part U? Old=MP New=Manufacturer Part Num
+Change Value of Parameter Manufacturer in Part D? Old=MF New=Manufacturer
+Change Value of Parameter Manufacturer Part Num in Part D? Old=MP New=Manufacturer Part Num
+Change Value of Parameter Manufacturer in Part U? Old=MF New=Manufacturer
+Change Value of Parameter Manufacturer Part Num in Part U? Old=MP New=Manufacturer Part Num
+Change Value of Parameter Manufacturer in Part P? Old=MF New=Manufacturer
+Change Value of Parameter Manufacturer Part Num in Part P? Old=MP New=Manufacturer Part Num
+Added Parameter Class I=PIM to Part U?
+Added Parameter Class I= to Part U?
+Added Parameter Class I= to Part *
+Added Parameter Class I= to Part U?
+Added Parameter Class I= to Part *
+Added Parameter Class I= to Part *
+Added Parameter Class I= to Part *
+Added Parameter Class I= to Part D?
+Added Parameter Class I= to Part L?
+Added Parameter Class I= to Part *
+Added Parameter Class I= to Part *
+Added Parameter Class I= to Part R?
+Added Parameter Class I= to Part SR?
+Added Parameter Class I= to Part D?
+Added Parameter Class I= to Library 
+Added Parameter Class I= to Part TP?
+Added Parameter Class I= to Part *
+Added Parameter Class I= to Part U?
+Added Parameter Class I= to Part *
+Added Parameter Class I= to Part P?
+Added Parameter Manufacturer=Cree Inc to Part *
+Added Parameter Manufacturer=Diodes Inc to Part U?
+Added Parameter Manufacturer=Diodes Inc to Part *
+Added Parameter Manufacturer=Microchip Technology to Part *
+Added Parameter Manufacturer=Texas Instruments to Part U?
+Added Parameter Manufacturer= to Part C?
+Added Parameter Manufacturer= to Part *
+Added Parameter Manufacturer= to Part *
+Added Parameter Manufacturer= to Part *
+Added Parameter Manufacturer= to Part D?
+Added Parameter Manufacturer= to Part D?
+Added Parameter Manufacturer= to Part D?
+Added Parameter Manufacturer= to Part L?
+Added Parameter Manufacturer= to Part R?
+Added Parameter Manufacturer= to Part SR?
+Added Parameter Manufacturer= to Library 
+Added Parameter Manufacturer= to Part TP?
+Added Parameter Manufacturer= to Part *
+Added Parameter Manufacturer= to Part *
+Added Parameter Manufacturer Part Num=74HC164D,653 to Part SR?
+Added Parameter Manufacturer Part Num=AP2114H-3.3TRG1 to Part U?
+Added Parameter Manufacturer Part Num=AP3435MPTR-G1 to Part *
+Added Parameter Manufacturer Part Num=CLV1L-FKB-CJMNQEGBB7673673 to Part *
+Added Parameter Manufacturer Part Num=DRV8839DSSR to Part U?
+Added Parameter Manufacturer Part Num=MIC5378YC5-TR to Part *
+Added Parameter Manufacturer Part Num= to Part C?
+Added Parameter Manufacturer Part Num= to Part *
+Added Parameter Manufacturer Part Num= to Part *
+Added Parameter Manufacturer Part Num= to Part *
+Added Parameter Manufacturer Part Num= to Part D?
+Added Parameter Manufacturer Part Num= to Part D?
+Added Parameter Manufacturer Part Num= to Part D?
+Added Parameter Manufacturer Part Num= to Part L?
+Added Parameter Manufacturer Part Num= to Part R?
+Added Parameter Manufacturer Part Num= to Library 
+Added Parameter Manufacturer Part Num= to Part TP?
+Added Parameter Manufacturer Part Num= to Part *
+Added Parameter Manufacturer Part Num= to Part *
+Added Parameter Supplier 1=Digikey to Part U?
+Added Parameter Supplier 1=Digikey to Part *
+Added Parameter Supplier 1=Digikey to Part U?
+Added Parameter Supplier 1=Digikey to Part U?
+Added Parameter Supplier 1=Digikey to Part *
+Added Parameter Supplier 1=Digikey to Part *
+Added Parameter Supplier 1=Digikey to Part *
+Added Parameter Supplier 1=Digikey to Part D?
+Added Parameter Supplier 1=Digikey to Part D?
+Added Parameter Supplier 1=Digikey to Part *
+Added Parameter Supplier 1=Digikey to Part *
+Added Parameter Supplier 1=Digikey to Part D?
+Added Parameter Supplier 1=Digikey to Part TP?
+Added Parameter Supplier 1=Digikey to Part *
+Added Parameter Supplier 1=Digikey to Part U?
+Added Parameter Supplier 1=Digikey to Part *
+Added Parameter Supplier 1=Digikey to Part P?
+Added Parameter Supplier Part Number 1=296-35701-1-ND to Part U?
+Added Parameter Supplier Part Number 1=296-44874-1-ND to Part U?
+Added Parameter Supplier Part Number 1=1611-MIC5378YC5-CT-ND to Part *
+Added Parameter Supplier Part Number 1=AP3435MPTR-G1DICT-ND to Part *
+Added Parameter Supplier Part Number 1=CLV1L-FKB-CJMNQEGBB7673673CT-ND to Part *
+Added Parameter Supplier Part Number 1=CP2105-F01-GMRCT-ND to Part U?
+Added Parameter Supplier Part Number 1=F2715CT-ND to Part D?
+Added Parameter Supplier Part Number 1= to Part U?
+Added Parameter Supplier Part Number 1= to Part *
+Added Parameter Supplier Part Number 1= to Part *
+Added Parameter Supplier Part Number 1= to Part *
+Added Parameter Supplier Part Number 1= to Part D?
+Added Parameter Supplier Part Number 1= to Part D?
+Added Parameter Supplier Part Number 1= to Part D?
+Added Parameter Supplier Part Number 1= to Part TP?
+Added Parameter Supplier Part Number 1= to Part *
+Added Parameter Supplier Part Number 1= to Part *
+Added Parameter Supplier Part Number 1= to Part P?
