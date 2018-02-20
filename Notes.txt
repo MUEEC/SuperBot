@@ -60,3 +60,11 @@ JST and wire connectors for battery and range finders
 Range finder placement and housing
 	- Need angle brackets so they can face forward not up.
 	- For all 3 sensors I think.
+
+
+More notes:
+
+4 m3 holes
+extra motor output 
+swap cp2105 for cp 2102
+https://www.digikey.com.au/product-detail/en/silicon-labs/CP2102N-A01-GQFN20/336-3692-ND/6012517
