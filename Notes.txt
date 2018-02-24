@@ -16,6 +16,7 @@ https://www.digikey.com.au/product-detail/en/texas-instruments/TPS63070RNMR/296-
 https://learn.sparkfun.com/tutorials/logic-levels
 https://learn.sparkfun.com/tutorials/voltage-dividers
 
+
 SCHEMATIC OF ALREADY DESIGNED ESP 32 WROOM DEV BOARD
 https://dl.espressif.com/dl/schematics/ESP32-Core-Board-V2_sch.pdf
 
