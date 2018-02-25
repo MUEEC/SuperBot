@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=B1 Old Footprint=RB5-10.5 New Footprint=MicroMotor_TypeA
+Change Component Footprint: Designator=B2 Old Footprint=RB5-10.5 New Footprint=MicroMotor_TypeA
+Change Component Footprint: Designator=B3 Old Footprint=RB5-10.5 New Footprint=MicroMotor_TypeA
+Change Component Designator: OldDesignator=B1 NewDesignator=M1
+Change Component Designator: OldDesignator=B2 NewDesignator=M2
+Change Component Designator: OldDesignator=B3 NewDesignator=M3
+Change Component Description : Designator=M1 Old Description=Motor, General Kind New Description=
+Change Component Description : Designator=M2 Old Description=Motor, General Kind New Description=
+Change Component Description : Designator=M3 Old Description=Motor, General Kind New Description=
+Change Component Library : Designator=M1 Old Library=Miscellaneous Devices.IntLib New Library=SuperBot_Schlib1.SchLib
+Change Component Library : Designator=M2 Old Library=Miscellaneous Devices.IntLib New Library=SuperBot_Schlib1.SchLib
+Change Component Library : Designator=M3 Old Library=Miscellaneous Devices.IntLib New Library=SuperBot_Schlib1.SchLib
+Change component parameters: Designator = "M1"; Footprint = "MicroMotor_TypeA"; UniqueID = "\FFBSFNDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "M2"; Footprint = "MicroMotor_TypeA"; UniqueID = "\RGJWEVHL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "M3"; Footprint = "MicroMotor_TypeA"; UniqueID = "\OMXRWXRM"
+Change component parameters. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetB1_1 New Net Name=NetH1_4
+Change Net Name : Old Net Name=NetB2_1 New Net Name=NetH2_4
+Change Net Name : Old Net Name=NetB3_1 New Net Name=NetH3_4
