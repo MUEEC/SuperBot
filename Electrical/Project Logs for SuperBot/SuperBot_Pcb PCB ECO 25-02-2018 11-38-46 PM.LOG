@@ -1,0 +1,169 @@
+Added Component: Designator=SW1(DIP SPDT 4P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW2(DIP SPDT 4P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V_5.5 Pin=BCK1-1
+Added Pin To Net: NetName=GND Pin=IRF1-1
+Added Pin To Net: NetName=V_5.5 Pin=IRF1-2
+Added Pin To Net: NetName=NetIRF1_Signal Pin=IRF1-3
+Added Pin To Net: NetName=M3_EN Pin=SW1-4
+Added Pin To Net: NetName=NetR53_1 Pin=SW1-5
+Added Pin To Net: NetName=NetESP1_28 Pin=SW1-6
+Added Pin To Net: NetName=M2_EN Pin=SW1-7
+Added Pin To Net: NetName=NetR53_1 Pin=SW1-8
+Added Pin To Net: NetName=NetESP1_29 Pin=SW1-9
+Added Pin To Net: NetName=M1_EN Pin=SW1-10
+Added Pin To Net: NetName=NetR53_1 Pin=SW1-11
+Added Pin To Net: NetName=NetESP1_30 Pin=SW1-12
+Added Pin To Net: NetName=BMS_EN2 Pin=SW2-1
+Added Pin To Net: NetName=NetR58_1 Pin=SW2-2
+Added Pin To Net: NetName=CH_1.5 Pin=SW2-3
+Added Pin To Net: NetName=BMS_EN1 Pin=SW2-4
+Added Pin To Net: NetName=NetR57_1 Pin=SW2-5
+Added Pin To Net: NetName=CH_0.5 Pin=SW2-6
+Added Pin To Net: NetName=TRST Pin=SW2-7
+Added Pin To Net: NetName=EN Pin=SW2-9
+Added Pin To Net: NetName=EN Pin=SW2-10
+Added Pin To Net: NetName=NetR55_1 Pin=SW2-11
+Added Pin To Net: NetName=NetR54_1 Pin=SW2-12
+Added Pin To Net: NetName=NetR47_2 Pin=T1-1
+Added Pin To Net: NetName=ESP_CTS Pin=T1-2
+Added Pin To Net: NetName=EN Pin=T1-3
+Added Pin To Net: NetName=NetR48_2 Pin=T2-1
+Added Pin To Net: NetName=NetR47_1 Pin=T2-2
+Added Pin To Net: NetName=IO0 Pin=T2-3
+Change Net Name : Old Net Name=NetIRF1_Signal New Net Name=IRDS_SGNL
+Added Member To Class: ClassName=Batmngt Member=Component BMS1 *
+Added Member To Class: ClassName=Batmngt Member=Component BT1 Battery
+Added Member To Class: ClassName=Batmngt Member=Component C1 4.7uF
+Added Member To Class: ClassName=Batmngt Member=Component C2 4.7uF
+Added Member To Class: ClassName=Batmngt Member=Component C3 4.7uF
+Added Member To Class: ClassName=ControllerPower Member=Component C4 10uF
+Added Member To Class: ClassName=ControllerPower Member=Component C5 22uF
+Added Member To Class: ClassName=ControllerPower Member=Component C6 4.7uF
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component C7 0.1uF
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component C8 0.1uF
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component C9 0.1uF
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component C10 0.1uF
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component C11 0.1uF
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component C12 0.1uF
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component C13 0.1uF
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component C14 0.1uF
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component C15 22uF
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component C16 2.2uF
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component C17 22uF
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component C18 4.7uF
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component C19 1uF
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component C20 1uF
+Added Member To Class: ClassName=Superbot_USB Member=Component C21 4.7uF
+Added Member To Class: ClassName=Superbot_USB Member=Component C22 0.1uF
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component C23 10uF
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component C24 0.1uF
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component C25 0.1uF
+Added Member To Class: ClassName=MPU9250 Member=Component C26 10nF
+Added Member To Class: ClassName=MPU9250 Member=Component C27 0.1pF
+Added Member To Class: ClassName=MPU9250 Member=Component C28 0.1pF
+Added Member To Class: ClassName=Batmngt Member=Component D1 RED
+Added Member To Class: ClassName=Batmngt Member=Component D2 RED
+Added Member To Class: ClassName=Superbot_LEDS Member=Component D3 RED
+Added Member To Class: ClassName=Superbot_LEDS Member=Component D4 RED
+Added Member To Class: ClassName=Superbot_LEDS Member=Component D5 RED
+Added Member To Class: ClassName=Superbot_USB Member=Component D6 TX LED
+Added Member To Class: ClassName=Superbot_USB Member=Component D7 RX LED
+Added Member To Class: ClassName=Superbot_USB Member=Component DA1 SP0503BAHTG
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component ESP1 ESP-32-WROOM
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component H1 H-Bridge
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component H2 H-Bridge
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component H3 H-Bridge
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component JTAG1 
+Added Member To Class: ClassName=ControllerPower Member=Component L1 2.2uH
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component L2 2.2uH
+Added Member To Class: ClassName=ControllerPower Member=Component LRG1 3.3V Reg
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component M1 Motor
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component M2 Motor
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component M3 Motor
+Added Member To Class: ClassName=MPU9250 Member=Component MPU1 MPU-9250_9DOF
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component MUX1 *
+Added Member To Class: ClassName=Batmngt Member=Component R1 1.13K
+Added Member To Class: ClassName=Batmngt Member=Component R2 1.18
+Added Member To Class: ClassName=Batmngt Member=Component R3 1K
+Added Member To Class: ClassName=Batmngt Member=Component R4 1K
+Added Member To Class: ClassName=ControllerPower Member=Component R5 510K
+Added Member To Class: ClassName=ControllerPower Member=Component R6 32.5K
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component R7 100K
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component R8 100K
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component R9 100K
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R10 200
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R11 200
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R12 200
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R13 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R14 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R15 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R16 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R17 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R18 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R19 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R20 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R21 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R22 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R23 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R24 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R25 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R26 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R27 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R28 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R29 180
+Added Member To Class: ClassName=Superbot_LEDS Member=Component R30 180
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component R31 150K
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component R32 437.19K
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component R33 10K
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component R34 127K
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component R35 100K
+Added Member To Class: ClassName=Superbot_motor_boost_mk2 Member=Component R36 17.4K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R37 100K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R38 1000K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R39 1.7K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R40 250K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R41 3.3K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R42 24K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R43 1.7K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R44 13K
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R45 220
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component R46 3.3K
+Added Member To Class: ClassName=Superbot_USB Member=Component R47 12K
+Added Member To Class: ClassName=Superbot_USB Member=Component R48 12K
+Added Member To Class: ClassName=Superbot_USB Member=Component R49 350
+Added Member To Class: ClassName=Superbot_USB Member=Component R50 1K
+Added Member To Class: ClassName=Superbot_USB Member=Component R51 350
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component R52 5K
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component R53 10K
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component R54 10K
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component R55 10K
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component R56 10K
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component R57 10K
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component R58 10K
+Added Member To Class: ClassName=Superbot_LEDS Member=Component RGB1 
+Added Member To Class: ClassName=Superbot_LEDS Member=Component RGB2 
+Added Member To Class: ClassName=Superbot_LEDS Member=Component RGB3 
+Added Member To Class: ClassName=Superbot_LEDS Member=Component RGB4 
+Added Member To Class: ClassName=Superbot_LEDS Member=Component RGB5 
+Added Member To Class: ClassName=Superbot_LEDS Member=Component RGB6 
+Added Member To Class: ClassName=Superbot_LEDS Member=Component S1 74HC595D
+Added Member To Class: ClassName=Superbot_LEDS Member=Component S2 74HC595D
+Added Member To Class: ClassName=Superbot_LEDS Member=Component S3 74HC595D
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component SW1 *
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component SW2 *
+Added Member To Class: ClassName=Superbot_USB Member=Component T1 SS8050-G
+Added Member To Class: ClassName=Superbot_USB Member=Component T2 SS8050-G
+Added Member To Class: ClassName=Superbot_USB Member=Component UART1 CP2102N
+Added Member To Class: ClassName=SuperBot_Sensors Member=Component US1 Ultrasonic Sensor
+Added Member To Class: ClassName=Superbot_USB Member=Component USB1 USb-Mirco
+Added Room: Name=Batmngt
+Added Room: Name=ControllerPower
+Added Room: Name=MPU9250
+Added Room: Name=Superbot_hbridge_mk3
+Added Room: Name=Superbot_LEDS
+Added Room: Name=Superbot_motor_boost_mk2
+Added Room: Name=SuperBot_Sensors
+Added Room: Name=SuperBot_Sheet_main
+Added Room: Name=Superbot_USB
