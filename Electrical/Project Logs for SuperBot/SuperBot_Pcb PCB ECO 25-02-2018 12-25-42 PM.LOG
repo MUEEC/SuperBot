@@ -1,0 +1,13 @@
+Added Component: Designator=BCK1(SOP8_AP3435)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class I"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Num"; Value = "AP3435MPTR-G1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "AP3435MPTR-G1DICT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BCK1-3
+Added Pin To Net: NetName=NetBCK1_4 Pin=BCK1-4
+Added Pin To Net: NetName=GND Pin=BCK1-6
+Added Pin To Net: NetName=NetBCK1_7 Pin=BCK1-7
+Added Pin To Net: NetName=V_5.5 Pin=BCK1-8
+Added Member To Class: ClassName=ControllerPower Member=Component BCK1 DC-DC Buck
