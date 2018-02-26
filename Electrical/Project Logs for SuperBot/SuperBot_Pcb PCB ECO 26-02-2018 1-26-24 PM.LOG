@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=IRF1-1
+Removed Pin From Net: NetName=V_5.5 Pin=IRF1-2
+Added Pin To Net: NetName=V_5.5 Pin=IRF1-1
+Added Pin To Net: NetName=GND Pin=IRF1-2
