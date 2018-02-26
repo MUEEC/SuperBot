@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=V_5 Pin=US1-1
+Removed Pin From Net: NetName=US_TRIG Pin=US1-2
+Removed Pin From Net: NetName=NetR39_2 Pin=US1-3
+Removed Pin From Net: NetName=GND Pin=US1-4
+Added Pin To Net: NetName=GND Pin=US1-1
+Added Pin To Net: NetName=NetR39_2 Pin=US1-2
+Added Pin To Net: NetName=US_TRIG Pin=US1-3
+Added Pin To Net: NetName=V_5 Pin=US1-4
