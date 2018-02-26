@@ -1,3 +1,4 @@
+Record=TopLevelDocument|FileName=SuperBot_Sheet_main.SchDoc
 Record=SheetSymbol|SourceDocument=SuperBot_Sheet_main.SchDoc|Designator=Bat_Management|SchDesignator=Bat_Management|FileName=Batmngt.SchDoc|SymbolType=Normal|RawFileName=Batmngt.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=SuperBot_Sheet_main.SchDoc|Designator=Controller_Pow|SchDesignator=Controller_Pow|FileName=ControllerPower.SchDoc|SymbolType=Normal|RawFileName=ControllerPower.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=SuperBot_Sheet_main.SchDoc|Designator=Hbridge and Motors|SchDesignator=Hbridge and Motors|FileName=Superbot_hbridge_mk3.SchDoc|SymbolType=Normal|RawFileName=Superbot_hbridge_mk3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
@@ -6,4 +7,3 @@ Record=SheetSymbol|SourceDocument=SuperBot_Sheet_main.SchDoc|Designator=Motor Po
 Record=SheetSymbol|SourceDocument=SuperBot_Sheet_main.SchDoc|Designator=MPU9250|SchDesignator=MPU9250|FileName=MPU9250.SchDoc|SymbolType=Normal|RawFileName=MPU9250.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=SuperBot_Sheet_main.SchDoc|Designator=Sensor Peripherals|SchDesignator=Sensor Peripherals|FileName=Superbot_Sensors.SchDoc|SymbolType=Normal|RawFileName=Superbot_Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=SuperBot_Sheet_main.SchDoc|Designator=USB UART|SchDesignator=USB UART|FileName=Superbot_USB.SchDoc|SymbolType=Normal|RawFileName=Superbot_USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=TopLevelDocument|FileName=SuperBot_Sheet_main.SchDoc
