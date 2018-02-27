@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SJNKGWDN
+DocumentUniqueId=WPDBGTBG
 
 [Document2]
 DocumentPath=SuperBot_Sheet_main.SchDoc
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BCVARYUA
+DocumentUniqueId=HRRDSGAJ
 
 [Document6]
 DocumentPath=ControllerPower.SchDoc
@@ -222,7 +222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OXFCUJMR
+DocumentUniqueId=SKKIWYKD
 
 [Document12]
 DocumentPath=Superbot_LEDS.SchDoc
