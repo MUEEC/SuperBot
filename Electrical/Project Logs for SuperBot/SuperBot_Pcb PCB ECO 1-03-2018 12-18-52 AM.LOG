@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IRDS_OUT Pin=MUX1-7
+Removed Pin From Net: NetName=OS_LED Pin=MUX1-8
+Removed Pin From Net: NetName=OS_SENSE Pin=MUX1-9
+Added Pin To Net: NetName=OS_LED Pin=MUX1-7
+Added Pin To Net: NetName=OS_SENSE Pin=MUX1-8
+Added Pin To Net: NetName=IRDS_OUT Pin=MUX1-9

@@ -1,0 +1,4 @@
+Change Component Comment : Designator=SW1 Old Comment=* New Comment=DIP SPDT 4P
+Change Component Comment : Designator=SW2 Old Comment=* New Comment=DIP SPDT 4P
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetCHG_A
+Change Net Name : Old Net Name=NetD2_A New Net Name=NetPWR_A

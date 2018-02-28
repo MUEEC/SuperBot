@@ -32,6 +32,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
+IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
@@ -222,7 +223,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JKGPJVOC
+DocumentUniqueId=IMQISEUT
 
 [Document12]
 DocumentPath=Superbot_LEDS.SchDoc
@@ -249,6 +250,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1175,7 +1177,7 @@ ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Miscellaneous Connectors.IntLib
 ComponentDesignItemID1=Header 5X2
 ComponentSymbolReference1=Header 5X2
-ComponentUpdate1=1
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Miscellaneous Devices.IntLib
@@ -1235,7 +1237,7 @@ ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=SuperBot_Schlib1.SchLib
 ComponentDesignItemID11=ESP-32-WROOM
 ComponentSymbolReference11=ESP-32-WROOM
-ComponentUpdate11=1
+ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=SuperBot_Schlib1.SchLib
@@ -1409,79 +1411,82 @@ ModelType7=PCBLIB
 ModelName7=DB24-M
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=ESP-32-WROOM
+ModelName8=DIP SPDT 4P
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=H3
+ModelName9=ESP-32-WROOM
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=HDR1X4
+ModelName10=H3
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=HDR2X5
+ModelName11=HDR1X4
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=LED0603
+ModelName12=HDR2X5
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=MicroMotor_TypeA
+ModelName13=LED0603
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=QFN28_CP2102n
+ModelName14=MicroMotor_TypeA
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=QFN424_MPU-9250
+ModelName15=QFN28_CP2102n
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=RES0402R
+ModelName16=QFN424_MPU-9250
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=RES0603R
+ModelName17=RES0402R
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=RES0805R
+ModelName18=RES0603R
 ModelUpdate18=1
 ModelType19=PCBLIB
-ModelName19=RGB LED
+ModelName19=RES0805R
 ModelUpdate19=1
 ModelType20=PCBLIB
-ModelName20=RGT16_1P7X1P7
+ModelName20=RGB LED
 ModelUpdate20=1
 ModelType21=PCBLIB
-ModelName21=SOP8_AP3435
+ModelName21=RGT16_1P7X1P7
 ModelUpdate21=1
 ModelType22=PCBLIB
-ModelName22=SOT109-1-M
+ModelName22=SOP8_AP3435
 ModelUpdate22=1
 ModelType23=PCBLIB
-ModelName23=SOT143_SP0503BAHT
+ModelName23=SOT109-1-M
 ModelUpdate23=1
 ModelType24=PCBLIB
-ModelName24=SOT223_AP2114
+ModelName24=SOT143_SP0503BAHT
 ModelUpdate24=1
 ModelType25=PCBLIB
-ModelName25=SOT23-SS8050-G
+ModelName25=SOT223_AP2114
 ModelUpdate25=1
 ModelType26=PCBLIB
-ModelName26=TSOP5_MIC537X
+ModelName26=SOT23-SS8050-G
 ModelUpdate26=1
 ModelType27=PCBLIB
-ModelName27=USB_micro_through
+ModelName27=TSOP5_MIC537X
 ModelUpdate27=1
 ModelType28=PCBLIB
-ModelName28=VCNT2020
+ModelName28=USB_micro_through
 ModelUpdate28=1
 ModelType29=PCBLIB
-ModelName29=VQFN_RNR0011A_1mm
+ModelName29=VCNT2020
 ModelUpdate29=1
 ModelType30=PCBLIB
-ModelName30=WSON_0.8mm_DSS0012A
+ModelName30=VQFN_RNR0011A_1mm
 ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=WSON_0.8mm_DSS0012A
+ModelUpdate31=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType31=SI
-ModelName31=Connector
-ModelUpdate31=1
+ModelType32=SI
+ModelName32=Connector
+ModelUpdate32=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1494,7 +1499,7 @@ ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
