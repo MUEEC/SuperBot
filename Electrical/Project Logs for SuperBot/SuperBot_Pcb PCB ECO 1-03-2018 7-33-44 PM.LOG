@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetR55_1 Pin=R55-1
+Removed Pin From Net: NetName=GND Pin=R55-2
+Removed Member From Class: ClassName=SuperBot_Sheet_main Member=R58
+Change Component Designator: OldDesignator=R56 NewDesignator=R55
+Change Component Designator: OldDesignator=R57 NewDesignator=R56
+Change Component Designator: OldDesignator=R58 NewDesignator=R57
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR56_1
+Change Net Name : Old Net Name=NetR58_1 New Net Name=NetR57_1
