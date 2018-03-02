@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MUX_S1 Pin=ESP1-5
+Removed Pin From Net: NetName=MUX_S2 Pin=ESP1-12
+Removed Pin From Net: NetName=MUX_S3 Pin=ESP1-17
+Removed Pin From Net: NetName=GND Pin=UART1-29
+Added Pin To Net: NetName=MUX_S0 Pin=ESP1-5
+Added Pin To Net: NetName=MUX_S1 Pin=ESP1-12
+Added Pin To Net: NetName=MUX_S2 Pin=ESP1-17
+Added Pin To Net: NetName=MUX_S3 Pin=ESP1-18
