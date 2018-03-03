@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=M3_EN Pin=SW1-4
+Removed Pin From Net: NetName=NetESP1_28 Pin=SW1-6
+Removed Pin From Net: NetName=M2_EN Pin=SW1-7
+Removed Pin From Net: NetName=NetESP1_29 Pin=SW1-9
+Removed Pin From Net: NetName=M1_EN Pin=SW1-10
+Removed Pin From Net: NetName=NetESP1_30 Pin=SW1-12
+Removed Member From Class: ClassName=SuperBot_Sheet_main Member=R53
+Removed Member From Class: ClassName=SuperBot_Sheet_main Member=SW1
+Change Component Comment : Designator=R53 Old Comment=10K New Comment=100K
+Change component parameters: Designator = "R53"; Footprint = "RES0603R"; UniqueID = "\PJMQIJFU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class I"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Num"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=M1J(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M2J(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M2J(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RES0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class I"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Num"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RES0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class I"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Num"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetESP1_30 Pin=M1J-1
+Added Pin To Net: NetName=M1_EN Pin=M1J-2
+Added Pin To Net: NetName=NetESP1_28 Pin=M2J-1
+Added Pin To Net: NetName=NetESP1_29 Pin=M2J-1
+Added Pin To Net: NetName=M2_EN Pin=M2J-2
+Added Pin To Net: NetName=M3_EN Pin=M2J-2
+Added Pin To Net: NetName=M1_EN Pin=R53-1
+Added Pin To Net: NetName=M2_EN Pin=R58-1
+Added Pin To Net: NetName=GND Pin=R58-2
+Added Pin To Net: NetName=M3_EN Pin=R59-1
+Added Pin To Net: NetName=GND Pin=R59-2
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component M1J Enable Jumper Motor 1
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component M2J Enable Jumper Motor 3
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component M2J Enable Jumper Motor 2
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component R53 100K
+Added Member To Class: ClassName=SuperBot_Sheet_main Member=Component R57 10K
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component R58 100K
+Added Member To Class: ClassName=Superbot_hbridge_mk3 Member=Component R59 100K
