@@ -1,0 +1,13 @@
+Added Component: Designator=MPU1(QFN424_MPU-9250)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V_3.3 Pin=MPU1-1
+Added Pin To Net: NetName=V_3.3 Pin=MPU1-8
+Added Pin To Net: NetName=MISO Pin=MPU1-9
+Added Pin To Net: NetName=NetC27_1 Pin=MPU1-10
+Added Pin To Net: NetName=V_3.3 Pin=MPU1-13
+Added Pin To Net: NetName=GND Pin=MPU1-18
+Added Pin To Net: NetName=GND Pin=MPU1-20
+Added Pin To Net: NetName=CS Pin=MPU1-22
+Added Pin To Net: NetName=SCK Pin=MPU1-23
+Added Pin To Net: NetName=MOSI Pin=MPU1-24
+Added Member To Class: ClassName=MPU9250 Member=Component MPU1 MPU-9250_9DOF
