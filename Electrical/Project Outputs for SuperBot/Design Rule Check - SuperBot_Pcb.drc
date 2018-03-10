@@ -1,65 +1,39 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Dillon\Documents\GitHub\SuperBot\Electrical\SuperBot_Pcb.PcbDoc
 Date     : 10/03/2018
-Time     : 12:37:43 AM
+Time     : 3:52:24 PM
 
-Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (74.6mm,75.3mm)(74.6mm,76.9mm) on Top Layer And Pad MPU1-24(74.2mm,75.35mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (74.2mm,75.35mm)(74.2mm,77.2mm) on Top Layer And Pad MPU1-23(74.6mm,75.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (75mm,75.3mm)(75mm,76.6mm) on Top Layer And Pad MPU1-23(74.6mm,75.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (74.6mm,75.3mm)(74.6mm,76.9mm) on Top Layer And Pad MPU1-22(75mm,75.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (75mm,75.3mm)(75mm,76.6mm) on Top Layer And Pad MPU1-21(75.4mm,75.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (75.8mm,75.3mm)(75.8mm,76.1mm) on Top Layer And Pad MPU1-21(75.4mm,75.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (75.8mm,75.3mm)(75.8mm,76.1mm) on Top Layer And Pad MPU1-19(76.2mm,75.35mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (76.75mm,74.8mm)(78.1mm,74.8mm) on Top Layer And Pad MPU1-17(76.7mm,74.4mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (75mm,71.1mm)(75mm,72.3mm) on Top Layer And Pad MPU1-10(75.4mm,72.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (74.6mm,71.7mm)(74.6mm,72.3mm) on Top Layer And Pad MPU1-9(75mm,72.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (75mm,71.1mm)(75mm,72.3mm) on Top Layer And Pad MPU1-8(74.6mm,72.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.148mm < 0.152mm) Between Track (74.6mm,71.7mm)(74.6mm,72.3mm) on Top Layer And Pad MPU1-7(74.2mm,72.25mm) on Top Layer 
-   Violation between Clearance Constraint: (0.146mm < 0.152mm) Between Track (74.6mm,75.3mm)(74.6mm,76.9mm) on Top Layer And Track (75mm,76.6mm)(77.2mm,78.8mm) on Top Layer 
-   Violation between Clearance Constraint: (0.146mm < 0.152mm) Between Track (74.6mm,75.3mm)(74.6mm,76.9mm) on Top Layer And Track (75mm,75.3mm)(75mm,76.6mm) on Top Layer 
-   Violation between Clearance Constraint: (0.146mm < 0.152mm) Between Track (74.2mm,75.35mm)(74.2mm,77.2mm) on Top Layer And Track (74.6mm,76.9mm)(77.4mm,79.7mm) on Top Layer 
-   Violation between Clearance Constraint: (0.146mm < 0.152mm) Between Track (75mm,71.1mm)(75mm,72.3mm) on Top Layer And Track (75.4mm,71.6mm)(75.4mm,72mm) on Top Layer 
-   Violation between Clearance Constraint: (0.146mm < 0.152mm) Between Track (75mm,71.1mm)(75mm,72.3mm) on Top Layer And Track (75.4mm,71.6mm)(76.2mm,70.8mm) on Top Layer 
-   Violation between Clearance Constraint: (0.146mm < 0.152mm) Between Track (75mm,71.1mm)(75mm,72.3mm) on Top Layer And Track (74.6mm,71.7mm)(74.6mm,72.3mm) on Top Layer 
-   Violation between Clearance Constraint: (0.146mm < 0.152mm) Between Track (75mm,71.1mm)(75mm,72.3mm) on Top Layer And Track (74.4mm,71.4mm)(74.6mm,71.7mm) on Top Layer 
-   Violation between Clearance Constraint: (0.146mm < 0.152mm) Between Track (74.2mm,75.35mm)(74.2mm,77.2mm) on Top Layer And Track (74.6mm,75.3mm)(74.6mm,76.9mm) on Top Layer 
-Rule Violations :20
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C19-2(112mm,76.05mm) on Top Layer And Via (112.9mm,71mm) from Top Layer to Bottom Layer 
-Rule Violations :1
-
-Processing Rule : Width Constraint (Min=0.254mm) (Max=5mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=196.85mil) (Preferred=10mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad M3-17(103.075mm,49.941mm) on Multi-Layer Actual Hole Size = 3mm
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad M3-16(81.425mm,37.441mm) on Multi-Layer Actual Hole Size = 3mm
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad M2-16(39.034mm,86.23mm) on Multi-Layer Actual Hole Size = 3mm
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad M2-17(39.034mm,61.23mm) on Multi-Layer Actual Hole Size = 3mm
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad M1-17(83mm,111mm) on Multi-Layer Actual Hole Size = 3mm
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad M1-16(104.651mm,98.5mm) on Multi-Layer Actual Hole Size = 3mm
-Rule Violations :6
-
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (81mm,84.7mm)(81.4mm,84.5mm) on Bottom Layer 
-   Violation between Net Antennae: Track (80.669mm,82.941mm)(80.975mm,83.352mm) on Bottom Layer 
-Rule Violations :2
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 10mil, Vertical Gap = 10mil ) (Disabled)(All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 29
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
