@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=BMS1-1
+Added Component: Designator=TS(RES0603R)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=TS-2
+Added Pin To Net: NetName=NetBMS1_1 Pin=BMS1-1
+Added Pin To Net: NetName=NetBMS1_1 Pin=TS-1
+Added Net: Name=NetBMS1_1
+Added Member To Class: ClassName=Batmngt Member=Component TS Thermistor
